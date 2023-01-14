@@ -26,15 +26,15 @@ $config = [
     // 请求网关  https://api-mop.chinaums.com/v1
     'gateway' => 'https://test-api-open.chinaums.com/v1',
     // 商户号
-    'mid' => '898201612345678',
+    'mid' => '89********5678',
     // 终端号
-    'tid' => '88880001',
+    'tid' => '88*****01',
     // 加密 APPID
-    'appid' => '10037e6f6823b20801682b6a5e5a0006',
+    'appid' => '10037e************a5e5a0006',
     // 加密 KEY
-    'appkey' => '1c4e3b16066244ae9b236a09e5b312e8',
+    'appkey' => '1c4e3****************9e5b312e8',
     // 回调验证需要的md5key
-    'md5key' => 'impARTxrQcfwmRijpDNCw6hPxaWCddKEpYxjaKXDhCaTCXJ6'
+    'md5key' => 'impARTx**************aKXDhCaTCXJ6'
 ];
 
 $data = [];
