@@ -1,0 +1,19 @@
+{
+    "name": "morton/chinaums",
+    "description": "一个银联商务sdk扩展包",
+    "keywords": ["chinaums","alipay", "wechat", "pay"],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Morton\\Chinaums\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "morton",
+            "email": "mojiufeng@gmail.com"
+        }
+    ],
+    "require": {}
+}
